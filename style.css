@@ -38,30 +38,7 @@ font-family:'Poppins',sans-serif;
   font-size:1.1em !important;
 }
 /* Carousel*/
-.carousel-inner img
-{
-  height:60%;
-  width:100%;
-}
-.carousel-caption
-{
-  position:absolute;
-  top:50%;
-  transform:translateY(-50%);
-}
-.carousel-caption h1
-{
-  font-size:500%;
-  text-transform:uppercase;
-  text-shadow:1px 1px 10px #000;
-}
-.carousel-caption h3
-{
-  font-size:300%;
-  font-weight:500;
-  text-shadow:1px 1px 10px #000;
-  padding-bottom:1rem;
-}
+
 .btn-primary
 {
   background-color:black;
@@ -213,21 +190,7 @@ hr.light-100
 {
   top:45%;
 }
-.carousel-caption h1
-{
-  font-size:350%;
-}
-.carousel-caption h3
-{
-  font-size:140%;
-  font-weight:400;
-  padding-bottom:.3rem;
-}
-.carousel-caption .btn
-{
-  font-size:95%;
-  padding:8px 14px;
-}
+
 .display-4
 {
   font-size:200%;
@@ -244,27 +207,7 @@ hr.light-100
 }
 @media (max-width: 576px) 
 {
-  .carousel-caption
-  {
-    top:40%;
-  }
-  .carousel-caption h1
-  {
-    font-size:250%;
-  }
-  .carousel-caption h3
-  {
-    font-size:110%;
-  }
-  .carousel-caption .btn
-  {
-    font-size:90%;
-    padding:4px 8px;
-  }
-  .carousel-indicators
-  {
-  display:none;
-}
+  
 .social a{
   font-size: 2em;
   padding: 0.6rem;
